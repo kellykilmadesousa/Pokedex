@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #f6f8fc;
 }
 
@@ -11,7 +11,7 @@ body{
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: white ;
+    background-color: #fff;
 }
 
 @media screen and (min-width: 992px) {
